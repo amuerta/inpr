@@ -57,7 +57,7 @@ __MAKE SHURE YOU HAVE__ `CLANG` __COMPILER INSTALLED__
 ```
 
 ## CONTRIBUTION
-I am not a very experienced with writing actual software, considering this is my first actually finished project, i am a noob, so if it happens that..
+I am not very experienced developer, and have my learning curve with writing actual software, considering this is my first actually finished project, i am a noob, so if it happens that..
 
 You know:
  
